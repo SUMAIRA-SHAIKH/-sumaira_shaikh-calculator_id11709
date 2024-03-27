@@ -1,0 +1,24 @@
+{
+  "name": "@sumaira_shaikh/calculator_id11709",
+  "version": "2.2.5",
+  "description": "simple calculator with typescript, node.js and inquirer ",
+  "main": "calculator_asyncfunc.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "calculator_asyncfunc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sumaira Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "@sumaira_shaikh/calculator_id11709": "^2.2.5",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
